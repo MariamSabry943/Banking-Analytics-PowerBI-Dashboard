@@ -20,4 +20,3 @@ This project covers a complete data analysis lifecycle, from initial UI/UX wiref
 - **Visualization:** Power BI Desktop
 
 ---
-*Developed as part of the Data Analysis professional training journey.*
